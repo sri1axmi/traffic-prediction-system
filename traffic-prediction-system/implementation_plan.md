@@ -1,4 +1,4 @@
-# AntiGravity Traffic Intelligence System
+#  Traffic Intelligence System
 
 This document outlines the architecture and implementation plan for building a production-ready, scalable predictive traffic system.
 
